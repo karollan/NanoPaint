@@ -1,0 +1,11 @@
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\bin\Release\NanoPaint.exe.config
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\bin\Release\NanoPaint.exe
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\bin\Release\NanoPaint.pdb
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.Form1.resources
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.Properties.Resources.resources
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.csproj.GenerateResource.cache
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.csproj.CoreCompileInputs.cache
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.exe
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.pdb
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.csprojAssemblyReference.cache
+C:\Users\LudwigVanWanna\source\repos\NanoPaint\NanoPaint\obj\Release\NanoPaint.AboutBox1.resources
